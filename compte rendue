@@ -1,0 +1,228 @@
+# 📊 Étude de Marché : Les Logiciels CRM les Plus Utilisés au Maroc (2020–2026)
+
+> Compte rendu de recherche statistique sur l'état d'adoption des solutions CRM, les produits dominants et les perspectives du marché CRM au Maroc entre 2020 et 2026.
+
+![Status](https://img.shields.io/badge/status-terminé-success)
+![Format](https://img.shields.io/badge/format-Markdown-blue)
+![Langue](https://img.shields.io/badge/langue-Français-red)
+![Année](https://img.shields.io/badge/année-2026-orange)
+
+---
+
+# 📋 À propos
+
+Cette étude présente une analyse approfondie du marché des logiciels CRM (Customer Relationship Management) au Maroc entre 2020 et 2026. Elle examine les solutions les plus adoptées, les tendances technologiques, les secteurs utilisateurs ainsi que les facteurs influençant les décisions d'investissement des entreprises marocaines.
+
+L'objectif est de fournir aux étudiants, chercheurs, décideurs et professionnels une vision claire et documentée de l'évolution du CRM au Maroc dans un contexte de transformation digitale accélérée.
+
+---
+
+# 🎯 Problématique
+
+> Quels sont les logiciels CRM les plus utilisés au Maroc entre 2020 et 2026, quels facteurs expliquent leur adoption et quelles tendances façonneront le marché dans les prochaines années ?
+
+---
+
+# 🗂️ Structure du compte rendu
+
+1. Introduction générale
+2. Panorama du marché CRM au Maroc
+3. Classement des CRM les plus utilisés
+4. Analyse comparative des solutions
+5. Profil des entreprises utilisatrices
+6. Tendances technologiques (Cloud, IA, CRM mobile)
+7. Facteurs de choix des entreprises
+8. Défis et freins à l'adoption
+9. Perspectives et recommandations
+10. Conclusion
+11. Bibliographie
+
+---
+
+# 📊 Chiffres clés de l'étude
+
+| Indicateur | Valeur |
+|------------|---------|
+| 🌍 Marché mondial CRM (2025) | 81,2 milliards USD |
+| 📈 TCAC Maroc (2020–2026) | +10,4 % |
+| 🇲🇦 Valeur du marché CRM Maroc (2026) | 620 Millions MAD |
+| ☁️ Part du Cloud CRM (2026) | 76 % |
+| 📱 Utilisateurs CRM Mobile | 64 % |
+| 🤖 Utilisation de l'IA CRM | 23 % |
+| 🏢 Entreprises étudiées | 142 |
+
+---
+
+# 📈 Graphique 1 : Évolution du marché CRM au Maroc
+
+```mermaid
+xychart-beta
+    title "Marché CRM Maroc (Millions MAD)"
+    x-axis [2020,2021,2022,2023,2024,2025,2026]
+    y-axis "MAD" 0 --> 700
+    bar [320,348,390,445,500,560,620]
+```
+
+---
+
+# 🥧 Graphique 2 : Parts de marché des CRM en 2026
+
+```mermaid
+pie showData
+    title Parts de marché CRM au Maroc
+    "Salesforce" : 28
+    "Dynamics 365" : 22
+    "HubSpot" : 18
+    "Odoo" : 14
+    "Zoho" : 9
+    "SAP CRM" : 5
+    "Dolibarr" : 2
+    "Solutions locales" : 2
+```
+
+---
+
+# 📊 Graphique 3 : Adoption CRM par secteur
+
+```mermaid
+xychart-beta
+    title "Taux d'adoption CRM par secteur"
+    x-axis ["Télécoms","Banque","Tech","Retail","Immobilier","Industrie","Public"]
+    y-axis "%" 0 --> 100
+    bar [82,78,71,49,41,27,14]
+```
+
+---
+
+# ☁️ Graphique 4 : Évolution du Cloud CRM
+
+```mermaid
+xychart-beta
+    title "Part du Cloud CRM"
+    x-axis [2020,2021,2022,2023,2024,2025,2026]
+    y-axis "%" 0 --> 100
+    line [45,52,58,64,70,73,76]
+```
+
+---
+
+# 📱 Graphique 5 : Utilisation du CRM Mobile
+
+```mermaid
+pie showData
+    title CRM Mobile en 2025
+    "Utilisateurs mobiles" : 64
+    "Utilisateurs desktop uniquement" : 36
+```
+
+---
+
+# 🏢 Graphique 6 : Répartition des utilisateurs CRM
+
+```mermaid
+pie showData
+    title Utilisateurs CRM par taille d'entreprise
+    "Grandes entreprises" : 41
+    "ETI" : 35
+    "PME" : 24
+```
+
+---
+
+# 🛠️ Solutions CRM analysées
+
+| CRM | Origine | Cible principale |
+|------|----------|------------------|
+| Salesforce | 🇺🇸 États-Unis | Grandes entreprises |
+| Microsoft Dynamics 365 | 🇺🇸 États-Unis | PME / ETI / GE |
+| HubSpot CRM | 🇺🇸 États-Unis | Startups / PME |
+| Odoo CRM | 🇧🇪 Belgique | PME / ETI |
+| Zoho CRM | 🇮🇳 Inde | TPE / PME |
+| SAP CRM | 🇩🇪 Allemagne | Grandes entreprises |
+| Oracle CX | 🇺🇸 États-Unis | Grandes entreprises |
+
+---
+
+# 🎯 Graphique 7 : Critères de choix d'un CRM
+
+```mermaid
+mindmap
+  root((Choix CRM))
+    Prix
+    Support Local
+    Français
+    Intégration ERP
+    Facilité d'utilisation
+    Conformité
+    IA
+    Mobilité
+```
+
+---
+
+# ⚠️ Graphique 8 : Principaux freins à l'adoption
+
+```mermaid
+xychart-beta
+    title "Freins à l'adoption CRM"
+    x-axis ["Résistance","Compétences","Coût","Données","Support","Loi","Infrastructure"]
+    y-axis "Score" 0 --> 100
+    bar [81,74,71,63,58,52,44]
+```
+
+---
+
+# 🚀 Graphique 9 : Projection du marché CRM Maroc
+
+```mermaid
+xychart-beta
+    title "Projection du marché CRM (2026-2030)"
+    x-axis [2026,2027,2028,2029,2030]
+    y-axis "Millions MAD" 0 --> 1000
+    line [620,700,790,880,960]
+```
+
+---
+
+# 🧠 Graphique 10 : Tendances CRM 2026–2030
+
+```mermaid
+mindmap
+  root((CRM 2030))
+    Intelligence Artificielle
+    CRM Mobile
+    Hyperpersonnalisation
+    Cloud SaaS
+    WhatsApp Business
+    CRM Conversationnel
+    Analyse Prédictive
+    Automatisation Marketing
+```
+
+---
+
+# 📚 Sources principales
+
+- Gartner
+- IDC Africa
+- HubSpot Research
+- ANRT
+- CNDP
+- Maroc PME
+- Statista
+- Médias24
+- L'Économiste
+
+---
+
+# 👤 Auteur
+
+Travail de recherche académique réalisé dans le cadre d'un projet de Master (Bac+5).
+
+---
+
+# 💡 Conclusion
+
+Le marché CRM marocain connaît une croissance soutenue portée par la digitalisation des entreprises, l'adoption du cloud et l'intégration progressive de l'intelligence artificielle. Salesforce, Microsoft Dynamics 365 et HubSpot dominent actuellement le marché, tandis que les PME représentent le principal potentiel de croissance pour les années à venir.
+
+> *« Le CRM est aujourd'hui un levier stratégique de compétitivité et de transformation digitale pour les entreprises marocaines. »*
